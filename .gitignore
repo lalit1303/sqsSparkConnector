@@ -1,0 +1,7 @@
+projectFilesBackup/
+target/
+lib/
+project/
+.idea/
+src/main/java/ParallelDownloading.java
+src/main/java/VLdownloadS3.java
